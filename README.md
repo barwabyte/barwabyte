@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning java and C#
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me use my username
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: any
+- ⚡ Fun fact: nil
 
 <!---
 barwabyte/barwabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
